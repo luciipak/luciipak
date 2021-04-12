@@ -6,6 +6,7 @@
 <p>
     <img src="https://img.shields.io/badge/-Javascript-23A9F2?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GraphQL-181717?style=flat-square&logo=GraphQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apollo-F44D27?style=flat-square&logo=Apollo&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React%20Native-1572B6?style=flat-square&logo=react%20native&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MongoDB-1572B6?style=flat-square&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Express-F44D27?style=flat-square&logo=Express&logoColor=white"/>
