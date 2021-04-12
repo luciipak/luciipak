@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-Docker-0079BF?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CircleCI-green?style=flat-square&logo=circleci&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NGINX-181717?style=flat-square&logo=nginx&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-PostgreSQL-0079BF?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-23A9F2?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ReactJS-green?style=flat-square&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/-AWS-4B32C3?style=flat-square&logo=AWS&logoColor=white"/>
