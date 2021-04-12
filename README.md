@@ -1,4 +1,4 @@
 
 ### <Hi />
-<img src="./Images/hellogif.gif" width="50%" align="center" />
+<img src="./Images/hellogif.gif" width="40%" left="40%" />
 
