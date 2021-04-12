@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/-Express-F44D27?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-0079BF?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CircleCI-0079BF?style=flat-square&logo=circleci&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-NGINX-0079BF?style=flat-square&logo=nginx&logoColor=white"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-0079BF?style=flat-square&logo=PostgreSQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ReactJS-1C78C0?style=flat-square&logo=React&logoColor=white"/>
